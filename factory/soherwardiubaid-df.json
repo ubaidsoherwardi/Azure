@@ -1,0 +1,9 @@
+{
+	"name": "soherwardiubaid-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4241d267-f930-495a-a30f-82afdb87c787",
+		"tenantId": "2f35edd4-2e60-4739-94ee-0b369516935e"
+	}
+}
